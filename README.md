@@ -30,4 +30,5 @@
 ![Снимок экрана 2024-06-07 011745](https://github.com/sergelyax/trafficLightTest/assets/101833796/0b46aafd-ff42-4286-89bd-46b72117619f)
 ![Снимок экрана 2024-06-07 010657](https://github.com/sergelyax/trafficLightTest/assets/101833796/dd3dab87-d97a-44b6-a704-861e12dafc94)
 ![Снимок экрана 2024-06-07 010628](https://github.com/sergelyax/trafficLightTest/assets/101833796/796140c8-76fe-48cd-9d16-380a6473ed4c)
+![image](https://github.com/sergelyax/trafficLightTest/assets/101833796/e99eae75-3746-4fd1-84a1-d5eb252cb6b3)
 
